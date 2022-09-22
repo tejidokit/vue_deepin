@@ -96,3 +96,18 @@ npm create vite@latest
 
 #### Done!
 #### Congratulations.
+
+***
+
+### Potential problems: 
+1. node and npm still showing after uninstalling it with the commands 
+ ```css
+sudo apt-get purge --auto-remove nodejs.
+```
+#### Fix: 
+```css
+nvm deactivate
+```
+```css
+nvm uninstall 16.17.0 
+```
