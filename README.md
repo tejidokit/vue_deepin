@@ -1,10 +1,6 @@
 # vue_deepin
 Step by step guide on setting up a Vue Web Development environment using Deepin Linux
 
-```css
-sudo su
-```
-``` Enter your password ```
 
 ```css
 sudo apt update
