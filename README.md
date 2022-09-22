@@ -40,7 +40,7 @@ git config --global user.email "your_email@example.com"
 ```css
 git config --global user.name "spongebob"
 ```
-#### Install curl to instal 3rd party github repo
+#### Install curl to install 3rd party github repo
 
 ```css
 sudo apt install curl
