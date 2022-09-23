@@ -161,7 +161,7 @@ npm create vite@latest
    
 
 
-| :exclamation:    | If your default browser has not pulled up a webpage a showing a Vue + Vite page, simply press ctrl button on your keyboard + left mouse button on the local host like like the one above (http://localhost:5173/) to go to the Vue + Vite webpage|
+| :exclamation:    | If your default browser has not pulled up a webpage showing a Vue + Vite page, simply press ctrl button on your keyboard + left mouse button on the local host like like the one above (http://localhost:5173/) to go to the Vue + Vite webpage|
 |---------------|:------------------------|
 
 <br />
