@@ -40,7 +40,7 @@ sudo apt install git
 ```css
 git --version
 ```
-#### Link your git to your repo | more details [here](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config).
+#### Link your git to your github repo, more details [here](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config).
 
 ```css
 git config --global user.email "your_email@example.com"
@@ -49,7 +49,7 @@ git config --global user.email "your_email@example.com"
 ```css
 git config --global user.name "spongebob"
 ```
-#### Install curl to install 3rd party github repo to instal the Node Version Manager
+#### Install curl to install 3rd party github repo to install the Node Version Manager
 
 ```css
 sudo apt install curl
