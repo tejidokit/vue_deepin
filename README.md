@@ -22,7 +22,7 @@ and this guide will not work.
 <br />
 <br />
 
-#### Update the system then run the following commands to remove potentially old versions of Node to avoid potential problems in our fresh install
+#### Update the system then run the following commands to remove potentially old versions of Node and avoid potential problems in our fresh install
 
 ```css
 sudo apt update
