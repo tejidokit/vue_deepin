@@ -1,6 +1,19 @@
-# vue_deepin
-Step by step guide on setting up a Vue Web Development environment using Deepin Linux
 
+
+<img src="https://user-images.githubusercontent.com/42762293/191895178-349dce0b-2f58-4edb-8494-575e98ac8a7d.svg" width="100" height="100"> <img src="https://user-images.githubusercontent.com/42762293/191897198-d3dc5a76-ae9b-46f8-bf33-087f6f27e591.svg" width="100" height="100"> 
+
+
+
+
+
+## Setting up a Vue web development environment using Deepin linux
+
+ :warning: WARNING          
+
+
+Do **NOT** use the ```sudo su``` command on the terminal, doing so will mess with the node files that are needed to run in your distro
+<br>
+and this guide will not work.
 
 ```css
 sudo apt update
@@ -76,7 +89,7 @@ nvm use --lts
 
 > Now using node v16.17.0 (npm v8.19.2)
 
-#### Do **not** use npm init vue@latest. It doesn't work in my Linux machines, but try substituting "init" with "create", see if it works 
+
 
 ```css
 npm create vite@latest
@@ -86,17 +99,51 @@ npm create vite@latest
 
 > ➜ Local: http://localhost:5173/
 
-#### If your default browser has not pulled up a webpage a showing a Vue + Vite page, simply press ctrl button on your keyboard + left mouse button on the local host like like the one above (http://localhost:5173/) to go to the Vue + Vite webpage
+
+
+   
+
+
+| :exclamation:    | If your default browser has not pulled up a webpage a showing a Vue + Vite page, simply press ctrl button on your keyboard + left mouse button on the local host like like the one above (http://localhost:5173/) to go to the Vue + Vite webpage|
+|---------------|:------------------------|
+
 
 #### While the Vue + Vite starter page is running, find your project file, right click and open with VS Code to start coding
 
+or
+
+#### Click the  <img src="https://user-images.githubusercontent.com/42762293/191899713-7d986d32-8779-4d87-9f5c-f65528e75a90.svg" width="30" height="30">    button on the same terminal to create another tab, then type the command below to open vs code in the same file that you created.
+```css
+code .
+```
+### To exit the terminal type the command below
+```css
+exit
+```
+
 #### Done!
-#### Congratulations.
+#### Congratulations. :tada:
+
+#### 
 
 ***
 
+:bulb:    To open your project file again, find the folder and then right click -> open with -> Visual Studio Code then type the command
+on your Visual Studio Code terminal
+
+```css
+npm run dev
+``` 
+***
+<br />
+<br />
+<br />
+
+:beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle:
 ### Potential problems: 
-1. node and npm still showing after uninstalling it with the commands 
+
+Node and npm still showing after uninstalling it with the commands 
+
  ```css
 sudo apt-get purge --auto-remove nodejs.
 ```
