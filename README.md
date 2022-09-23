@@ -223,5 +223,5 @@ nvm deactivate
 ```css
 nvm uninstall 16.17.0 
 ```
-| This command will force NVM to uninstall the version that you installed, in our case it is the version 16.17.0|
+| This command will force NVM to uninstall the Node JS version that you installed along with NPM, in our case it is the Node JS version 16.17.0|
 |-----------------------------------------|
