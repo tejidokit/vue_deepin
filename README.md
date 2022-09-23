@@ -147,7 +147,7 @@ Node and npm still showing after uninstalling it with the commands
  ```css
 sudo apt-get purge --auto-remove nodejs.
 ```
-#### Fix: 
+#### Solution: 
 ```css
 nvm deactivate
 ```
