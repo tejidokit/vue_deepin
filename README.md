@@ -49,7 +49,7 @@ git config --global user.email "your_email@example.com"
 ```css
 git config --global user.name "spongebob"
 ```
-#### Install curl to install 3rd party github repo
+#### Install curl to install 3rd party github repo to instal the Node Version Manager
 
 ```css
 sudo apt install curl
