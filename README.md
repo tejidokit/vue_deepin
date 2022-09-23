@@ -124,7 +124,7 @@ nvm install --lts
 > Now using node v16.17.0 (npm v8.19.2)
 
 
-| By the time of this writing, in Sept, 2022, these were the most updated versions so yours might be different if you are from the future |
+| By the time of this writing, in Sept, 2022, these were the most updated versions so yours might be different if you are reading this guide from the future |
 |-----------------------------------------|
 
 <br />
