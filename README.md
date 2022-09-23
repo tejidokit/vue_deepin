@@ -14,7 +14,7 @@
  :warning: WARNING          
 
 
-Do **NOT** use the ```sudo su``` command on the terminal, doing so will mess with the node files that are needed to run in your distro
+Do **NOT** use the ```sudo su``` command on the terminal, doing so will mess with the node files that are needed to run in your Deepin distro
 <br>
 and this guide will not work.
 
@@ -22,7 +22,7 @@ and this guide will not work.
 <br />
 <br />
 
-#### Update the system then run the following commands to remove potentially old versions of Node and avoid potential problems in our fresh install
+#### Update the system then run the following commands to remove old versions of Node and avoid potential problems in our fresh install
 
 ```css
 sudo apt update
