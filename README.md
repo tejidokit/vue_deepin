@@ -152,7 +152,7 @@ npm create vite@latest
 <br />
 <br />
 
-#### After following the Vite set up on the terminal your terminal should have have a similar output below among other strings of text
+#### After following the Vite set up on the terminal your terminal should have a similar output below among other strings of text
 
 > ➜ Local: http://localhost:5173/
 
