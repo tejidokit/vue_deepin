@@ -72,7 +72,7 @@ git config --global user.name "spongebob"
 <br />
 <br />
 
-#### Install curl to install 3rd party github repo to install the Node Version Manager
+#### Install curl using the github repo below then install the Node Version Manager
 
 ```css
 sudo apt install curl
