@@ -88,7 +88,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 
 
-| :exclamation:    | CLOSE and REOPEN the terminal then type, do not proceed to the next steps if you do not CLOSE then REOPEN the terminal.|
+| :exclamation:    | CLOSE and REOPEN the terminal before proceeding to the next steps.|
 |---------------|:------------------------|
 
 <br />
