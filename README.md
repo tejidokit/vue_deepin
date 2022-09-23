@@ -15,14 +15,13 @@
 
 
 Do **NOT** use the ```sudo su``` command on the terminal, doing so will mess with the node files that are needed to run in your Deepin distro
-<br>
 and this guide will not work.
 
 
 <br />
 <br />
 
-#### Update the system then run the following commands to remove old versions of Node and avoid potential problems in our fresh install
+#### Update the system then run the following commands to remove old versions of Node and avoid potential problems in our fresh install.
 
 ```css
 sudo apt update
@@ -124,7 +123,7 @@ nvm install --lts
 > Now using node v16.17.0 (npm v8.19.2)
 
 
-| By the time of this writing, in Sept, 2022, these were the most updated versions so yours might be different if you are reading this guide from the future |
+| By the time of this writing, in Sept, 2022, these were the most updated versions so yours might be different if you are reading this guide from the future. |
 |-----------------------------------------|
 
 <br />
@@ -195,8 +194,8 @@ exit
 ***
 
 
-:bulb:    To open your project file again, find the folder and then right click -> open with -> Visual Studio Code then type the command
-on your Visual Studio Code terminal
+:bulb:    To open your project file again, find the folder and then right click -> open with -> Visual Studio Code then type the command below
+on your Visual Studio Code terminal.
 
 ```css
 npm run dev
@@ -209,7 +208,7 @@ npm run dev
 :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle: :beetle:
 ### Potential problems: 
 
-Node and npm still showing after uninstalling it with the commands 
+Node and npm still showing after uninstalling it with the commands. 
 
  ```css
 sudo apt-get purge --auto-remove nodejs.
@@ -223,5 +222,5 @@ nvm deactivate
 ```css
 nvm uninstall 16.17.0 
 ```
-| This command will force NVM to uninstall the Node JS version that you installed along with NPM, in our case it is the Node JS version 16.17.0|
+| This command will force NVM to uninstall the Node JS version that you installed along with NPM, in our case it is the Node JS version 16.17.0. The command below deletes both Node JS and NPM from your system.|
 |-----------------------------------------|
